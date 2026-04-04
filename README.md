@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Sanskar&fontSize=80&animation=fadeIn&fontAlignY=38" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sanskar&fontSize=80&animation=fadeIn" /> </p>
 
 <p align="center">
   <a href="https://github.com/Sanskar-07-s">
@@ -19,21 +19,17 @@ I am a **Software Engineer** and **Full-Stack Developer** focused on building ro
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Highlighted Projects
 
 <div align="center">
 
-| Project | Description & Key Features | Tech Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Money Manage SaaS** | AI-powered financial tracking with automated data classification and predictive insights. | `Next.js` • `Node.js` • `PostgreSQL` |
-| **NeuralAssist** | A context-aware conversational agent built for task automation and knowledge retrieval. | `Python` • `FastAPI` • `TensorFlow` |
-| **DevPortfolio Pro** | High-performance, modular portfolio architecture optimized for SEO and modern UX. | `React` • `Tailwind` • `Framer Motion` |
+| **Money Manage SaaS** | AI-powered financial tracking with automated data classification. | `Next.js` • `Node.js` • `PostgreSQL` |
+| **NeuralAssist** | A context-aware conversational agent built for task automation. | `Python` • `FastAPI` • `TensorFlow` |
+| **DevPortfolio Pro** | High-performance, modular portfolio architecture optimized for SEO. | `React` • `Tailwind` • `Framer Motion` |
 
 </div>
-
-<p align="center">
-  <img src="https://via.placeholder.com/1200x400/1e1e2e/89b4fa?text=Featured+Project+Showcase" width="100%" />
-</p>
 
 ---
 
@@ -56,17 +52,9 @@ I am a **Software Engineer** and **Full-Stack Developer** focused on building ro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-07-s&layout=compact&theme=catppuccin_mocha&border_radius=10" height="180em" />
 </div>
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/Sanskar-07-s">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sanskar-07-s&theme=onedark&column=7&no-bg=true" />
-  </a>
-</div>
-
 ---
 
-### 🐍 Activity Stream
+### 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sanskar-07-s/Sanskar-07-s/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
@@ -82,9 +70,6 @@ I am a **Software Engineer** and **Full-Stack Developer** focused on building ro
   </a>
   <a href="https://www.fiverr.com/sanskar_07_s" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
