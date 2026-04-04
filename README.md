@@ -1,9 +1,8 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=rect&color=00C2FF&height=150&section=header&text=Sanskar&fontSize=70&fontAlignY=35" /> </p>
+<h1 align="center">Sanskar</h1>
+<h3 align="center">Building Projects • Exploring AI • Creating Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/Sanskar-07-s">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Projects;Exploring+AI;Creating+Real+Systems" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Projects;Exploring+AI;Creating+Real+Systems" />
 </p>
 
 ---
@@ -36,7 +35,7 @@ A collection of responsive and functional web applications, focusing on clean UI
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanskar-07-s&show_icons=true&theme=tokyonight" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar-07-s&theme=tokyonight" height="180em" />
