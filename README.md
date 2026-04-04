@@ -1,36 +1,43 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=waving&color=00C2FF&height=250&section=header&text=Sanskar&fontSize=80&animation=fadeIn&fontAlignY=38" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Sanskar&fontSize=80&animation=fadeIn&fontAlignY=38" /> </p>
 
 <p align="center">
   <a href="https://github.com/Sanskar-07-s">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Projects;Exploring+AI;Creating+Real+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+projects;Exploring+AI;Creating+real+systems" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## ⚡ About Me
-- 💻 **Building**: Developing high-performance web and AI-driven applications with a focus on real-world utility.
+### 💫 About Me
+
+I am a **Software Engineer** and **Full-Stack Developer** focused on building robust AI-driven applications and efficient web systems. I bridge the gap between intelligent algorithms and production-ready interfaces.
+
+- 🚀 **Building**: Developing high-performance web and AI-driven applications with a focus on real-world utility.
 - 🤖 **Interests**: Deeply involved in AI, automation, and intelligent system architectures.
 - 🧠 **Mindset**: Practical execution over abstract theory — I build systems that work.
 - 💼 **Freelancing**: Delivering technical solutions and specialized content on **Fiverr**.
 
 ---
 
-## 🚀 Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Core Features | Stack |
+| Project | Description & Key Features | Tech Stack |
 | :--- | :--- | :--- |
-| **Personal Money Tracker** | AI-powered tracking with automated categorization and deep analytics. | `Next.js` • `Node.js` • `OpenAI` |
-| **AI Chat System** | A modern, real-time responsive chat interface with context-aware processing. | `React` • `Python` • `FastAPI` |
-| **Web Solutions** | Functional, responsive, and UI/UX driven applications for diverse needs. | `Tailwind` • `Framer Motion` |
+| **Money Manage SaaS** | AI-powered financial tracking with automated data classification and predictive insights. | `Next.js` • `Node.js` • `PostgreSQL` |
+| **NeuralAssist** | A context-aware conversational agent built for task automation and knowledge retrieval. | `Python` • `FastAPI` • `TensorFlow` |
+| **DevPortfolio Pro** | High-performance, modular portfolio architecture optimized for SEO and modern UX. | `React` • `Tailwind` • `Framer Motion` |
 
 </div>
 
+<p align="center">
+  <img src="https://via.placeholder.com/1200x400/1e1e2e/89b4fa?text=Featured+Project+Showcase" width="100%" />
+</p>
+
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,html,css,tailwind,nodejs,mongodb,mysql,git,github,docker,vscode,postman" />
@@ -38,11 +45,11 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanskar-07-s&show_icons=true&theme=catppuccin_mocha&border_radius=10" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=Sanskar-07-s&theme=catppuccin_mocha&border_radius=10" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar-07-s&theme=catppuccin_mocha&border_radius=10" height="180em" />
 </p>
 
 <div align="center">
@@ -59,7 +66,15 @@
 
 ---
 
-## 🌐 Connect With Me
+### 🐍 Activity Stream
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanskar-07-s/Sanskar-07-s/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sanskar-s-07" target="_blank">
@@ -71,12 +86,6 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanskar-07-s/Sanskar-07-s/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 <div align="right">
