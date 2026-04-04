@@ -1,69 +1,50 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sanskar&fontSize=80&animation=fadeIn" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/render?type=rect&color=00C2FF&height=150&section=header&text=Sanskar&fontSize=70&fontAlignY=35" /> </p>
 
 <p align="center">
   <a href="https://github.com/Sanskar-07-s">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+projects;Exploring+AI;Creating+real+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Projects;Exploring+AI;Creating+Real+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 💫 About Me
-
-I am a **Software Engineer** and **Full-Stack Developer** focused on building robust AI-driven applications and efficient web systems. I bridge the gap between intelligent algorithms and production-ready interfaces.
-
-- 🚀 **Building**: Developing high-performance web and AI-driven applications with a focus on real-world utility.
-- 🤖 **Interests**: Deeply involved in AI, automation, and intelligent system architectures.
-- 🧠 **Mindset**: Practical execution over abstract theory — I build systems that work.
-- 💼 **Freelancing**: Delivering technical solutions and specialized content on **Fiverr**.
+## 👋 About Me
+- 💻 **Building**: Developing real-world web and AI-driven systems with a focus on practical utility.
+- 🤖 **Interest**: Exploring Artificial Intelligence, automation, and intelligent software architectures.
+- 💼 **Freelance**: Providing specialized technical services and content creation on **Fiverr**.
+- 🧠 **Mindset**: Dedicated to continuous learning and building systems that solve real problems.
 
 ---
 
-### 🚀 Highlighted Projects
+## 🚀 Featured Projects
 
-<div align="center">
+### 💰 Personal Money Tracker
+AI-powered expense tracking system featuring automated data classification, smart analytics, and interactive data visualizations.
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Money Manage SaaS** | AI-powered financial tracking with automated data classification. | `Next.js` • `Node.js` • `PostgreSQL` |
-| **NeuralAssist** | A context-aware conversational agent built for task automation. | `Python` • `FastAPI` • `TensorFlow` |
-| **DevPortfolio Pro** | High-performance, modular portfolio architecture optimized for SEO. | `React` • `Tailwind` • `Framer Motion` |
+### 🤖 AI Chat System
+A modern conversational agent with a responsive UI, designed for real-time interaction and efficient information retrieval.
 
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,html,css,tailwind,nodejs,mongodb,mysql,git,github,docker,vscode,postman" />
-</div>
+### 🌐 Web Projects
+A collection of responsive and functional web applications, focusing on clean UI/UX and seamless performance.
 
 ---
 
-### 📊 GitHub Analytics
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanskar-07-s&show_icons=true&theme=catppuccin_mocha&border_radius=10" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar-07-s&theme=catppuccin_mocha&border_radius=10" height="180em" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-07-s&layout=compact&theme=catppuccin_mocha&border_radius=10" height="180em" />
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanskar-07-s/Sanskar-07-s/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,html,css,tailwind,nodejs,mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskar-07-s&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar-07-s&theme=tokyonight" height="180em" />
+</p>
 
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sanskar-s-07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -71,6 +52,12 @@ I am a **Software Engineer** and **Full-Stack Developer** focused on building ro
   <a href="https://www.fiverr.com/sanskar_07_s" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanskar-07-s/Sanskar-07-s/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <div align="right">
