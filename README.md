@@ -37,8 +37,8 @@ A collection of responsive and functional web applications, focusing on clean UI
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanskar-07-s&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar-07-s&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskar-07-s&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar-07-s&theme=tokyonight&cache_seconds=1800" height="180em" />
 </p>
 
 ---
