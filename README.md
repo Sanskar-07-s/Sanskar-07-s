@@ -59,6 +59,13 @@ A collection of responsive and functional web applications, focusing on clean UI
   <img src="https://raw.githubusercontent.com/Sanskar-07-s/Sanskar-07-s/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+<!-- START_SECTION:daily_tip -->
+### 💡 Daily Dev Tip
+> Clean code is not written, it's rewritten.
+
+<p align="right"><i>Last updated: 2026-04-30 14:59:29</i></p>
+<!-- END_SECTION:daily_tip -->
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Sanskar-07-s&color=00C2FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </div>

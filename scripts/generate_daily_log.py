@@ -16,6 +16,30 @@ TIPS = [
     "A language that doesn't affect your way of thinking about programming is not worth knowing."
 ]
 
+def update_readme(tip):
+    readme_path = Path("README.md")
+    if not readme_path.exists():
+        return
+        
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
+        
+    start_marker = "<!-- START_SECTION:daily_tip -->"
+    end_marker = "<!-- END_SECTION:daily_tip -->"
+    
+    if start_marker in content and end_marker in content:
+        timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        new_section = f"{start_marker}\n### 💡 Daily Dev Tip\n> {tip}\n\n<p align=\"right\"><i>Last updated: {timestamp}</i></p>\n{end_marker}"
+        
+        # Replace the entire section including markers
+        import re
+        pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
+        updated_content = re.sub(pattern, new_section, content, flags=re.DOTALL)
+        
+        with open(readme_path, "w", encoding="utf-8") as f:
+            f.write(updated_content)
+        print("Updated README.md with new tip.")
+
 def generate_daily_log():
     log_dir = "logs"
     os.makedirs(log_dir, exist_ok=True)
@@ -58,6 +82,9 @@ def generate_daily_log():
         with open(log_path, "a", encoding="utf-8") as f:
             f.write(update_content)
         print(f"Appended update to: {log_path}")
+    
+    # Also update the README
+    update_readme(daily_tip)
 
 if __name__ == "__main__":
     generate_daily_log()
