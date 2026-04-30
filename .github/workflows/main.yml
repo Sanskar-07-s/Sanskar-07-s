@@ -3,7 +3,8 @@ name: Update Profile Components
 on:
   # Run every 12 hours to keep it fresh
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 4 * * *"  # 09:30 AM IST
+    - cron: "0 16 * * *" # 09:30 PM IST
   
   # Run on every push to the main branch
   push:
@@ -66,8 +67,8 @@ jobs:
 
       - name: Commit and Push Daily Log
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Sanskar"
+          git config --global user.email "sanskardhat6@gmail.com"
           git add logs/ README.md
           git commit -m "docs: automated daily log for $(date +'%Y-%m-%d') 🚀" || echo "No changes to commit"
           git push
