@@ -61,9 +61,9 @@ A collection of responsive and functional web applications, focusing on clean UI
 
 <!-- START_SECTION:daily_tip -->
 ### 💡 Daily Dev Tip
-> Refactor early, refactor often.
+> Don't comment what the code does, comment why it does it.
 
-<p align="right"><i>Last updated: 2026-05-11 17:59:27</i></p>
+<p align="right"><i>Last updated: 2026-05-12 06:41:45</i></p>
 <!-- END_SECTION:daily_tip -->
 
 <div align="right">
