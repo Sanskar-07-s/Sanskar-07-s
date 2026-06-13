@@ -61,9 +61,9 @@ A collection of responsive and functional web applications, focusing on clean UI
 
 <!-- START_SECTION:daily_tip -->
 ### 💡 Daily Dev Tip
-> Always leave the code specialized and the data generalized.
+> Refactor early, refactor often.
 
-<p align="right"><i>Last updated: 2026-06-12 18:11:34</i></p>
+<p align="right"><i>Last updated: 2026-06-13 07:52:28</i></p>
 <!-- END_SECTION:daily_tip -->
 
 <div align="right">
