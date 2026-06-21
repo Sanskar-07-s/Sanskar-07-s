@@ -61,9 +61,9 @@ A collection of responsive and functional web applications, focusing on clean UI
 
 <!-- START_SECTION:daily_tip -->
 ### 💡 Daily Dev Tip
-> A language that doesn't affect your way of thinking about programming is not worth knowing.
+> Don't comment what the code does, comment why it does it.
 
-<p align="right"><i>Last updated: 2026-06-20 17:39:58</i></p>
+<p align="right"><i>Last updated: 2026-06-21 08:37:58</i></p>
 <!-- END_SECTION:daily_tip -->
 
 <div align="right">
