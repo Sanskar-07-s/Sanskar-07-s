@@ -61,9 +61,9 @@ A collection of responsive and functional web applications, focusing on clean UI
 
 <!-- START_SECTION:daily_tip -->
 ### 💡 Daily Dev Tip
-> Testing is not about finding bugs, it's about gaining confidence.
+> Always leave the code specialized and the data generalized.
 
-<p align="right"><i>Last updated: 2026-11-19 22:57:41</i></p>
+<p align="right"><i>Last updated: 2026-11-20 12:40:33</i></p>
 <!-- END_SECTION:daily_tip -->
 
 <div align="right">
